@@ -48,6 +48,7 @@
           },
           "configurations": {
             "production": {
+              "baseHref": "/demo/",
               "budgets": [
                 {
                   "type": "initial",
